@@ -1,0 +1,107 @@
+.leftside,
+.rightside {
+    height: 100vh;
+    width: 100%;
+}
+
+.leftside {
+    background-image: url('/Frame%201.png.jpg');
+}
+
+.rightside {
+    background: white;
+    position: relative;
+
+}
+
+.leftside text {
+    top: 30%;
+    position: relative;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.leftside p {
+    top: 34%;
+    position: relative;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+img {
+    float: right;
+    top: 40%;
+    position: relative;
+    margin-right: 25%;
+}
+
+/*blockquote:before{
+    content: "\201C";
+    font-size:300%;
+   top: 30%;
+    left: 0;
+  
+    }
+blockquote{
+    padding: 2%;
+    line-height: 145%; 
+     top: 30%;
+}*/
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------*/
+.rightside h5 {
+    float: right;
+    padding: 15px;
+    color: #8692A6;
+    margin-top: 25px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.rightside h2 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+    top: 25%;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.rightside p {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    position: absolute;
+    top: 30%;
+    color: #8692A6;
+    margin-left: 100px;
+    word-spacing: 1px;
+    width: 40%;
+    margin-top: 10px;
+
+
+}
